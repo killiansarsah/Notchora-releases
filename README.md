@@ -27,8 +27,8 @@ Get-FileHash -Algorithm SHA256 .\NotchoraSetup.exe
 
 | File Name | SHA-256 Checksum |
 | :--- | :--- |
-| `NotchoraSetup.exe` | `447ff81828b9f1debdba1b06719cbbd04926bbf46ac0ea6bff085d29490b3dd5` |
-| `Notchora-v1.0.0-win-x64.zip` | `4dc90311f15a225e7a6f62b600dbc4220b76336834944b98aefe376565a4b7a5` |
+| `NotchoraSetup.exe` | `01c01840ec930e13adbcc9c1b6c946597c5c3f3afa91e684bcc1997c06503067` |
+| `Notchora-v1.0.0-win-x64.zip` | `afe5abac4f9ae57222be5c3751f5840d305c574f057b0ff819f0618e510fd198` |
 
 Official checksum file: [`SHA256SUMS.txt`](SHA256SUMS.txt)
 
