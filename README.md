@@ -1,10 +1,10 @@
-# Notchora — Official Production Releases
+﻿# Notchora â€” Official Production Releases
 
 [![Release](https://img.shields.io/badge/Release-v1.0.0--Genesis-blue.svg)](https://github.com/killiansarsah/Notchora-releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-black.svg)](https://github.com/killiansarsah/Notchora-releases)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/killiansarsah/Notchora-releases)
 
-This repository contains official production distribution binaries, installers, and release checksums for **Notchora** — the Apple Dynamic Island experience for Windows.
+This repository contains official production distribution binaries, installers, and release checksums for **Notchora** â€” the Apple Dynamic Island experience for Windows.
 
 ---
 
@@ -27,14 +27,14 @@ Get-FileHash -Algorithm SHA256 .\NotchoraSetup.exe
 
 | File Name | SHA-256 Checksum |
 | :--- | :--- |
-| `NotchoraSetup.exe` | `32b3f094f59cbf5b7067ae524a2835972d93f02e576ab6438e866f9d49c0f013` |
-| `Notchora-v1.0.0-win-x64.zip` | `a9ab7864d3f837fa65707d7dca0731258cb539c4d160b35fb367b413b3bd9c6d` |
+| `NotchoraSetup.exe` | `d47ba5b867cd6a0d998d9ed339e68dbc4e4da442b5ab30e044246744905d9a91` |
+| `Notchora-v1.0.0-win-x64.zip` | `d36f2917a7e218a6f95da2014fe2cd44e789aaec5b3fc99edf78cb590e34fabe` |
 
 Official checksum file: [`SHA256SUMS.txt`](SHA256SUMS.txt)
 
 ---
 
-## What's New in v1.0.0 — Genesis Edition
+## What's New in v1.0.0 â€” Genesis Edition
 
 ### Dynamic Island Engine & Spring Physics
 * **High-Fidelity Differential Spring Solver** ($k=360, c=27.5, \zeta=0.725$): Zero oscillation, instant interruption momentum preservation, and convergence in $\le 200\text{ ms}$.
