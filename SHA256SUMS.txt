@@ -1,2 +1,2 @@
-cc9faf36f4e055b5cef4b9858b0869d959a6d30635e4a643ee1b6c120c736ace  NotchoraSetup.exe
-d0b0fb0c9e8edb35d4bc97f3d6cd5fc7bfe13e8e192355e344b636257ec46937  Notchora-v1.0.0-win-x64.zip
+614ac96edbecb50c987f46c4f3878f0e56afd2a824ee9aaa151063e67313a111  NotchoraSetup.exe
+92002bd4f70281a49f8d40df9a4a824c4bdab0e7bfb722de4b9fdbedda9dc5b3  Notchora-v1.0.0-win-x64.zip
